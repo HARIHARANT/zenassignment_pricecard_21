@@ -1,3 +1,10 @@
+body {
+  background: dodgerblue;
+}
+button:hover{
+  opacity:unset;
+}
+
 .App {
   text-align: center;
 }
